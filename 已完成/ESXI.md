@@ -1,6 +1,6 @@
 Linux 主機 熱轉移到 Esxi 虛擬機上的注意事項
 ====
-
+ 
 
 我是用 VMware vCenter Converter Standalone 來將我的 Ubuntu 14.04 主機轉移到 Esxi 主機變成虛擬機
 
