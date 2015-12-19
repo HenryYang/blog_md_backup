@@ -45,3 +45,9 @@ Step3: 下載與部署檔案
 >setup.exe /configure Office365_configuration.xml
 
 ![](https://photo.hy31.net/2015/office/2016install/5.png)
+
+
+
+參考資料：
+http://demo.tc/post/819
+https://www.facebook.com/jaschiang/posts/10206477809277514?pnref=story
