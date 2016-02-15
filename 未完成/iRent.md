@@ -26,38 +26,44 @@
 
 ##看圖吧
 
-![]()
+![](https://photo.hy31.net/2016/iRent/1.jpg)
 每個 iRent 租車站都會有招牌
 
-![]()
+![](https://photo.hy31.net/2016/iRent/2.png)
 主畫面
 
-![]()
+![](https://photo.hy31.net/2016/iRent/3.png)
 預約記錄
 
 
-![]()
+![](https://photo.hy31.net/2016/iRent/4.png)
 預約成功的簡訊
 
 
-![]()
+![](https://photo.hy31.net/2016/iRent/5.jpg)
 車輛外觀
 
 
-![]()
+![](https://photo.hy31.net/2016/iRent/6.png)
+![](https://photo.hy31.net/2016/iRent/7.png)
+![](https://photo.hy31.net/2016/iRent/8.png)
+![](https://photo.hy31.net/2016/iRent/9.png)
 取車流程
 
-![]()
+![](https://photo.hy31.net/2016/iRent/10.jpg)
 開門感應悠遊卡
 
-![]()
+![](https://photo.hy31.net/2016/iRent/11.jpg)
 行照、強制險、加油卡
 
 
-![]()
+![](https://photo.hy31.net/2016/iRent/12.jpg)
 車上內裝（iPhone 是我自己的）
 
-![]()
+![](https://photo.hy31.net/2016/iRent/13.png)
+![](https://photo.hy31.net/2016/iRent/14.png)
+![](https://photo.hy31.net/2016/iRent/15.png)
+![](https://photo.hy31.net/2016/iRent/16.png)
 還車步驟
 
 
