@@ -1,4 +1,37 @@
 -----
+##### 20170831
+
+# [工具] Hologram - 比 A-Frame 更入門的 WebVR 創作工具
+
+Hologram 是一套採用所見即所得操作方式的圖形化 WebVR 創作工具，過去在 A-Frame 開發最不直覺的是需要自己去尋找 3D 模型並手動匯入，但在 Hologram 連接了 sketchfab 這 3D 模型的素材庫，所以只要點幾個按鍵就選擇喜歡的素材就可以匯入到目前的專案。基本上使用 Hologram 來開發 WebVR 是真的可以達到用拖拉方式完成一份屬於自己的專案，有興趣的就快來試試吧！
+
+對了，這應用程式目前只支援 macOS，所以 Windows 或是其他系統的用戶就只能先說聲抱歉了。
+
+https://hologram.cool/
+
+----
+
+# [服務]讓 CMS 系統不再是 Wordpress 統一天下，使用 VRiCMS 給讀者有不一樣閱讀 VR 體驗
+
+現在討論到 Blog 系統大部分的人都會知道 Wordpress 這套內容管理系統（CMS），但在現今 WebVR 這麼火紅的時刻也當然不會缺席 CMS 這場盛會。因此目前就出現了一套名為 VRiCMS 的 VR 版本的 CMS。想當然的後台發文頁面也都還是使用傳統介面來顯示，但對於造訪網站的使用者來說就是可以立刻以 VR 視角來看網站文章。
+
+雖然用 VR 看 Blog 是一件很潮的事情，但是如何讓使用者願意每次都用 VR 觀看與用 VR 觀看能多哪些不一樣的體驗就是值得站長去深思了。
+
+https://vrimaginar.nl/nl/
+
+https://twitter.com/VRimaginar/status/903011937352650752
+
+----
+
+# [資訊] Mozilla 技術人員整理出來的 WebVR 資訊新手懶人包
+
+就在 Firefox 55 正式支援 WebVR 後，越來越多人對於 WebVR 有興趣但是資料真的很雜很亂。所以 Mozilla 就整理出來一些給新手最基本的文件與 DEMO Project 來源。當然這些資源都是英文的，所以如果看不懂也是歡迎來看我們的 [webvr.tw](http://webvr.tw/)  來獲取更多有關 WebVr 的正體中文資訊喔！
+
+https://hacks.mozilla.org/2017/08/essential-webvr-resources/
+
+----
+
+-----
 ##### 20170824
 
 
