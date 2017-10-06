@@ -1,4 +1,63 @@
 -----
+20171002
+
+# [資訊] Mozilla 有關 VR 資訊的入口網站
+
+如果你之前沒看過，現在讓你看了。畢竟整個編輯群都是 MozTW 社群的人，所以介紹一下 Mozilla 官方的 VR 資源一定是很正常的。
+
+https://mozvr.com/
+
+------
+# [資訊] 一窺 BBC 實境實驗室在做什麼
+
+> 在過去的兩年中 BBC 的研發工程師專注於透過 VR 技術並且在考量流程、技術、成本的狀況下來協助數位內容的產生。它們除了分享了有關製作 VR 內容的方式、以 360 攝影的新聞報導、設計字幕給 360 的資源與移植內容到多種不同的平台等等的相關知識。
+ 
+BBC 真的是一個走在科技前端的新聞媒體平台，在文中它們除了有提到嘗試過使用各種新技術來實驗各種平台、資源對於媒體可能帶來的改變。更佩服的是 BBC 其下的 Reality Labs 更是一個開放標準的愛好者，它們除了答應會支持貢獻有關開放標準的生態系外，也會分享它們自己的實驗經驗。而 WebVR 也是 BBC 的 Reality Labs 關注的一環。
+如果對於新聞業如何導入有關 VR 相關技術的朋友這篇非常值得參考。
+
+http://www.bbc.co.uk/rd/blog/2017-09-bbc-reality-labs-virtual-augmented
+
+------
+# [技術] 沒看過龍貓嗎？現在讓你用 WebVR 看個夠
+
+由於 A-Frame 0.7 後支援正多邊形 (NGon) 所以就可以支援 GoogleVR Blocks 所建模出來的 3D 模型。
+
+
+
+https://twitter.com/Lady_Ada_King/status/912623897442439168/photo/1
+
+https://vr.google.com/blocks/
+
+https://github.com/archilogic-com/aframe-gblock
+
+https://earthy-course.glitch.me/
+
+
+
+------
+# [專案] Networked-Aframe - 一個人玩 WebVR 已經不夠有趣，現在會寫 HTML 就能做出多人互動 WebVR 成品
+
+A-Frame 可以算是目前最入門的 WebVR 框架，但只能一個人單獨體驗總是少了什麼。所以就出現了這個包含網路功能的 A-Frame 出來，然後最複雜的網路部分它已經用 node.js 中的 WebRTC 包裝起來。 因此開發者就只需要使用 HTML 就可以完成整個多人互動的 WebVR 成品而不需要理解底層的網路協定。
+
+
+https://twitter.com/HaydenLee37/status/910183045537263616
+
+https://github.com/haydenjameslee/networked-aframe
+
+https://github.com/haydenjameslee/networked-aframe/blob/master/docs/getting-started-local.md
+
+------
+
+# [資訊] 去找吧！我把所有用 A-Frame 製作的 13K 遊戲都放在那裡了
+
+前幾期提到的只用 13K 製作 javascript 遊戲的比賽，最近終於公開了比賽成品，大家真的要來讚嘆一下這些用不到 13K 就可以完成一個遊戲的開發者。
+
+https://twitter.com/js13kGames/status/913769133136842753
+
+http://2017.js13kgames.com/#winners-aframe
+
+
+-----
 20170918
 
 # [趣味] 沒參加 Apple 發表會沒關係，用 WebVR 也有親臨 SteveJobs Theater 的震撼
