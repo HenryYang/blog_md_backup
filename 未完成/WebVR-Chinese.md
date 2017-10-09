@@ -1,4 +1,36 @@
 -----
+20171009
+
+# [新奇] Babylon.js 搭配上 WebVR，讓你在 VR 環境內體驗 3D 遊戲
+
+Edge 瀏覽器的換場動畫真的超炫的，然後只要用 Babylon.js 就可以快速的做出超讚的 WebVR 遊戲！
+
+https://twitter.com/HoloLite/status/913839911962214400
+
+------
+
+# [技術] Babylon.js 深入淺出教學，就讓人一次就完成跨平台的 WebVR 3D 遊戲開發
+
+Babylon.js 算是目前很火紅的框架之一，而這篇文章的作者則是從最基礎的各頭戴式顯示器與控制器的支援度到基礎的 WebVR 知識都有講解到。所以很推薦給不熟 WebVR 或是想要以 Babylon 開發得朋友看。
+
+https://www.davrous.com/2017/07/07/from-zero-to-hero-creating-webvr-experiences-with-babylon-js-on-all-platforms/
+
+
+------
+# [專案] JanusWeb - JanusVR 的純 Web 客戶端，讓人可以在 3D 的環境下互動與聊天
+
+現在的聊天不再像是過去一樣只是單純的聊天室，而是需要有更多的視覺上的衝擊與享受。像是這專案就是也採用了 Web 搭配 VR 的方式來體驗全 3D 的聊天與互動環境，其中還有人做出了一個過去大家熟悉的寶可夢場景出來。
+
+
+
+https://github.com/jbaicoianu/janusweb
+
+https://vesta.janusvr.com/popular/all/1
+
+https://janusvr.com
+
+
+-----
 20171002
 
 # [資訊] Mozilla 有關 VR 資訊的入口網站
