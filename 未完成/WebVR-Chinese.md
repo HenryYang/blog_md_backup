@@ -1,4 +1,103 @@
 -----
+20171113
+# [生活] 線上零售商 Target 運用 WebAR 讓消費者在家就能知道家具是否適合適
+
+傳統購買大型家具最大問題總是只能透過想像去購物，而知名的 Target 則是在自家的 App 內導入 WebAR 技術，讓人可以快速的知道想要購買的物品是否符合自己真實的環境。
+
+https://twitter.com/Goglasses/status/923512179097260032
+
+https://www.goglasses.fr/realite-augmentee/target-webar-meuble
+
+-----
+
+# [教學] 快速上手的全雲端開發 WebVR 解決方案 - rodin
+
+其實對於新手最大的問題一直都是環境設定、網站設定架設等等的雜碎問題，然後 rodin 是一套 Online IDE 環境的 WebVR 解決方案，所以今天使用者完全就只需要一個瀏覽器，就可以在瀏覽器中完成設定、撰寫程式碼、部屬與執行應用而不需要另外再安裝其他軟體。然後他也支援各家的頭帶式顯示器，所以如果是第一次想開發也是可以考慮看看這平台的。
+
+https://medium.com/rodinvr/getting-started-with-rodin-io-3476a3bd3a25
+
+https://rodin.io/
+
+-----
+# [外掛] WebVR API 模擬器 - WebVR API Emulation
+
+當想開發 WebVR 相關的應用，但是又沒有專用的頭帶式顯示器時這時候 這一個 Chrome 的外掛套件則是非常好用的，因為它可以模擬出畫面與三軸空間來，讓開發者可以以最接近有實體設備的情況下開發，而目前這外掛可以模擬 HTC VIVE 的頭帶式顯示器的顯示效果。
+
+
+https://github.com/spite/WebVR-Extension
+
+https://chrome.google.com/webstore/detail/webvr-api-emulation/gbdnpaebafagioggnhkacnaaahpiefil
+
+-----
+
+# [新知] 音樂對 WebVR 帶來的改變
+
+這篇文章主要提到的 WebVR 應用是在前幾週的報到中我們就已經有介紹過的 Inside Music 這超酷炫音樂 WebVR 專案。然後這篇文章的重點是他整了不少有趣有關音樂的 WebVR 應用，所以想以音樂為發想的人千萬不要錯過。之後我們也會挑幾個最有趣的在之後的期數介紹。
+
+
+https://twitter.com/robclarke/status/926182165120987136
+
+https://www.learningarchitects.com/how-music-is-made-with-exciting-technology-webvr/
+
+https://experiments.withgoogle.com/webvr/inside-music/view/
+
+
+-----
+# [新知] Sketchfab 推出支援 WebVR 的 App 讓使用者能將各種模型以 VR 模式觀看
+
+Sketchfab 是目前一個知名的 3D 模型分享平台，然後日前開始支援
+Oculus、HTC Vive、Gear VR、Cardboard 來運行他們的 App 已使用 VR 模式觀看，這樣讓使用者能有更簡便的方法來觀賞與使用 Sketchfab 的資源。
+
+https://www.archdaily.com/787666/sketchfab-adds-support-for-apps-and-webvr
+
+https://sketchfab.com/
+
+-----
+# [新奇] 想看火星的真實樣貌嗎？現在 Google 與 NASA 合作的專案讓你一次看的夠。
+
+這是一個由 NASA Jet Propulsion Laboratory 與 Google 合作的計畫，把真實的火星地貌移植到 360 度的互動 WebVR 上。讓每一個對火星有興趣的人，不像過去只能看照片還可以身歷其境的用 VR 來體驗。
+
+https://twitter.com/DClark_Tweet/status/922277153760190464
+
+-----
+
+
+# [討論] 當混合實境走入 Web 的環境
+
+> 今天 Mozilla 宣布一個新的開發計畫是要在 Web 中把混合實境整合擴展到虛擬實境與擴增實境中。我們最原始的目標是如何讓設備、頭盔、 WebVR 框架與相關的工具能運作的順暢。所以 Web 工程師就可以輕鬆的從熟悉的工具中做選擇並且創作與發佈身歷其境的應用。
+
+這編算是 Mozilla 官方自己細數近期 WebVR 技術中重大的事項，然後也為了讓 VR 與 AR 的整合更加密切，所以目前也提出了 WebXR API 的草案，希望能讓未來開發 WebVR 與 WebAR 的門檻更低與用容易取用。
+
+
+
+https://blog.mozilla.org/blog/2017/10/20/bringing-mixed-reality-web/
+
+
+-----
+20171023
+
+# [規格] WebXR 草案 - 讓 WebVR 包含 AR/MR 的相容性
+
+這目前還只是一份草案來討論 WebXR 的規格，但是它預計之後會擴充 WebVR 對於 AR/MR 的相容性，所以未來的應用是可以期待的，然後有興趣的人目前 WebXR 已經透過 polyfill 來運作的範例程式。
+
+https://github.com/mozilla/webxr-api
+
+-----
+# [技術] Windows 10 冬季更新帶來更多 WebVR 體驗
+
+> 早在今年 4 月我們就已經宣布這次的 Windows 10 更新中 Edge 會支援 WebVR 1.1 的 API， 以提供數以百計的開發者透過 Windows Mixed Reality 開發者套件來開發各種 VR 相關的使用。
+
+今年的 10/17 號 EdgeHTML 16 跟著 Windows 10 Fall Creators Update 一起推出了，微軟目標以 Windows Mixed Reality 的支援裝置來達到高普及率與低門檻的特色，並且用此來推廣自家的 Microsoft Edge 瀏覽器。
+
+而且當然也不意外的這次的 Windows Mixed Reality 平台支援了主流的 WebVR 框架，如： A-Frame, BabylonJS, ReactVR 與 three.js；而更重要的是目前也已經支援了動態感測的控制器了。
+
+從處處我們都可以看到這一次微軟不論是平台還是硬體都有想進入到 WebVR 的決心，所以讓我們繼續看下去這一次微軟會用什麼角色來推動整個生態係吧！
+
+https://twitter.com/vladcatrinescu/status/918605204160999424
+
+https://www.microsoft.com/en-us/windows/windows-mixed-reality
+
+-----
 20171009
 
 # [新奇] Babylon.js 搭配上 WebVR，讓你在 VR 環境內體驗 3D 遊戲
