@@ -1,4 +1,48 @@
 -----
+20171211
+
+
+# [應用] 響應式設計或許大家有聽過，連 WebVR 都能帶入響應式就新奇了
+
+在過去，響應式設計主要是用來讓網頁符合每個不同大小與解析的解決方案，讓使用者不論在什麼樣大小都能有最佳的顯示效果。而這專案主要是讓 A-Frame 可以藉由使用者的控制器來達到響應式的效果而給使用者最佳的體驗。
+
+https://github.com/pardolab/aframe-responsive-component
+
+-----
+# [趣味] 如果太年輕而沒有用過 Windows 3.1，這邊是一個好機會用 WebVR 體驗看看
+
+多數人都已經習慣了現在互動強烈的作業系統了，如果還懷念過去的操作介面不用在裝虛擬機器，只需要一個 WebVR 環境就可以讓人身歷其境當年的 Windows 3.1 與 Dos 環境。
+
+http://assets.metacade.com/emulators/win311vr.html
+
+-----
+# [趣味] Chrome 離線小恐龍的 WebVR 趣味版
+
+或許有些人知道當 Chrome 處於離線狀態時所出現的小恐龍只要按下 Space 按鈕就可以開始玩小遊戲。所以也就有人復刻出了 WebVR 版本，當然這版本是需要網路才可以玩的 XD。
+
+
+https://github.com/urish/t-rex-vr
+
+https://twitter.com/UriShaked/status/938704911977631744
+
+-----
+
+# [工具] Amazon 發表超簡單入門的 WebVR 設計平台 - Sumerian
+
+> Amazon Sumerian 可讓您輕鬆快速地建立和執行虛擬實境 (VR)、擴增實境 (AR) 和 3D 應用程式，無須任何專門的程式設計或 3D 圖形專業技能。
+
+現在連 Amazon 都開始搶入 3D 設計的產業，然後這次推出的產品 Sumerian 是透過 AWS 平台來呈現的免費服務。這套軟體也是讓初學者可以透過拖拉的方式完成最基本的互動，然後當然也還是可以透過撰寫程式碼的方式來完成更多細部的操作。而且他也支援了 Oculus Rift、HTC Vive、iOS ARKit 等等的平台，且在未來也會支援 Android ARCore 所以看起來後勢可期。
+
+https://www.youtube.com/watch?time_continue=116&v=tr4y5whWDdw
+
+https://blog.bigscreenvr.com/amazon-just-acquired-a-tool-that-makes-it-easy-for-anyone-to-design-webvr-apps-b7e084ef4fa6
+
+https://aws.amazon.com/sumerian/
+
+https://twitter.com/Polite_Chaos/status/939440909942390784
+
+
+-----
 20171113
 # [生活] 線上零售商 Target 運用 WebAR 讓消費者在家就能知道家具是否適合適
 
